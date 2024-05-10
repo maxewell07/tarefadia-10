@@ -1,0 +1,31 @@
+* {
+    padding: ;
+    margin: ;
+}
+body{ background-color: aliceblue;
+    color:goldenrod;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 35px;
+    font-size: 35px;
+    font-family: fantasy;
+    
+    
+}
+
+ul {
+    text-align: center;color: beige;
+    
+    background-color:goldenrod;
+}
+
+table {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    
+}
